@@ -12,6 +12,7 @@ dnspython==2.2.1
 eureka-requests==0.0.5
 filelock==3.8.0
 Flask==2.2.2
+gunicorn==20.1.0
 idna==3.4
 ifaddr==0.2.0
 itsdangerous==2.1.2
